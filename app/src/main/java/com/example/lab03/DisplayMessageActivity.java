@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.example.mad_lab03.R;
+
 
 public class DisplayMessageActivity extends AppCompatActivity {
 

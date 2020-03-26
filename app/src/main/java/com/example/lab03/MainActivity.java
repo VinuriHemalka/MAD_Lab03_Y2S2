@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
-import com.example.mad_lab03.R;
+
 
 
 public class MainActivity extends AppCompatActivity {
